@@ -3,7 +3,7 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/angular"><img src="src\images\deploy-on-elestio.png" alt="Deploy on elest.io" width="180px" /></a>
 
-Example application and CI/CD pipeline showing how to deploy a st website to elestio.
+Example application and CI/CD pipeline showing how to deploy a Angular website to elestio.
 
 <img src="src\images\angular.png" alt="screenshot of the Angular app" width="100%" />
 
