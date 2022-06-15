@@ -3,6 +3,26 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/angular"><img src="src\images\deploy-on-elestio.png" alt="Deploy on elest.io" width="180px" /></a>
 
+
+# Angular!
+
+This is a very basic example of a simple Angular app.
+
+
+Clone this [elestio-examples/angular](https://github.com/elestio-examples/angular) 
+
+```
+git clone https://github.com/elestio-examples/angular.git
+```
+Change into project directory.
+
+```
+npm install
+npm run start
+```
+
+This starts your app in development mode, make the changes and push.
+
 Example application and CI/CD pipeline showing how to deploy a Angular website to elestio.
 
 <img src="src\images\angular.png" alt="screenshot of the Angular app" width="100%" />
